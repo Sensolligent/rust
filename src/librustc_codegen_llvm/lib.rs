@@ -38,6 +38,7 @@ extern crate rustc_fs_util;
 extern crate rustc_driver as _;
 
 #[macro_use] extern crate log;
+extern crate smallvec;
 extern crate syntax;
 extern crate syntax_expand;
 extern crate syntax_pos;
